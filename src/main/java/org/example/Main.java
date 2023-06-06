@@ -1,5 +1,7 @@
 package org.example;
 
+import org.example.domain.Calculator;
+
 public class Main {
     public static void main(String[] args) {
 //        Calculator calculator1 = new Calculator("src/main/resources/numbers.txt", "*");
